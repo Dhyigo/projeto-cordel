@@ -31,7 +31,7 @@ html, body {
 .cabecalho > h1 {
 
     font-family: var(--font01);
-    font-size: 7em;
+    font-size: 10vw;
     padding-top: 50px;
     font-variant: small-caps;
 }
@@ -55,8 +55,8 @@ html, body {
 .principal section {
     font-family: var(--font02);
     padding: 10vh 30px;
-    font-size: 1.8em;
-    line-height: 2em;
+    font-size: 4.5vw;
+    line-height: 9vw;
 }
 
 section p {
@@ -65,7 +65,7 @@ section p {
 .principal .normal{
     background-color: var(--cor1);
     color: black;
-    line-height: 3em;
+    line-height: 11vw;
 
 }
 
@@ -84,12 +84,12 @@ section p {
 }
 
 #img1 {
-    background: green url('../imagens/background001.jpg') center top fixed;
+    background: green url('../imagens/background001.jpg') center bottom fixed;
     background-size: cover;
 }
 
 #img2 {
-    background: #A6B399 url('../imagens/background002.jpg') center top fixed;
+    background: #A6B399 url('../imagens/background002.jpg') center bottom fixed;
     background-size: cover;
 }
 .rodaPe {
@@ -101,7 +101,7 @@ section p {
 .rodaPe p{
     color: var(--textCor1);
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.7em;
     font-weight: lighter;
     padding: 3px 10px;
 }
