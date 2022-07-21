@@ -84,12 +84,12 @@ section p {
 }
 
 #img1 {
-    background: green url('../imagens/background001.jpg') center bottom fixed;
+    background: green url('../imagens/background001.jpg') center top fixed;
     background-size: cover;
 }
 
 #img2 {
-    background: #A6B399 url('../imagens/background002.jpg') center bottom fixed;
+    background: #A6B399 url('../imagens/background002.jpg') center top fixed;
     background-size: cover;
 }
 .rodaPe {
